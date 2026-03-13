@@ -51,7 +51,7 @@ Each game will have its own folder and instructions on how to run it.
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/games.git
+git clone https://github.com/akashplaysxd/Games.git
 ```
 
 2. Navigate into the project
